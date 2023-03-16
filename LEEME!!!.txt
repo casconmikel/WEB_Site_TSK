@@ -1,0 +1,15 @@
+Las paginas 4 paginas HTML realizadas por mi se cargan en la misma pentaña, las que estan linkadas con la empresa original se abren en una pestaña nueva (aunque salta a la vista... hehe). Estan son las pagina:
+
+"La compañia", seria como el inicio, esta linkada a los logos.
+
+"Trabaja con nosotros", se accede desde el footer.
+
+Las otras dos estan dentro de "Soluciones", la que salta por defecto es "Soluciones_ER" y si la seleccionas en el submenu podras ir a "Soluciones_IN".
+
+Por otra parte notificar que indicas en las requisitos, que el archivo donde se almacenes las fotos del html se tiene que llamar "images", se me paso por completo y lo llame "Imagenes" y ahora voy justo de tiempo, para la proxima tendre mas cuidado.
+
+No he comentado mucho, solamente a nivel organizativo las partes dentro del css que es donde mas me han ayudado los comentarios. Se interpreta bien todo lo demas.
+
+Un saludo.
+
+MIKEL CASCÓN MOLINO
